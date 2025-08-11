@@ -4,7 +4,7 @@
     "tur": "Programlama Dili",
     "cikis_yili": "1991",
     "populerlik": "Veri bilimi, yapay zeka ve web geliştirmede yaygın",
-    "gorsel": "hhttps://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/python.png",
+    "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/python.png",
     "aciklama": "Python, okunabilirliği yüksek, dinamik tipli ve çok amaçlı bir programlama dilidir."
   },
   {
@@ -12,7 +12,7 @@
     "tur": "Container Platformu",
     "cikis_yili": "2013",
     "populerlik": "Uygulamaları izole şekilde çalıştırmada popüler",
-    "gorsel": "https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png",
+    "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/docker.png",
     "aciklama": "Docker, yazılımları container'lar içinde çalıştırarak taşınabilirlik ve kolay dağıtım sağlar."
   },
   {
@@ -20,7 +20,7 @@
     "tur": "UI Framework",
     "cikis_yili": "2017",
     "populerlik": "Tek kod tabanıyla Android ve iOS uygulamaları geliştirmek için popüler",
-    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png",
+    "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/flutter.png",
     "aciklama": "Google tarafından geliştirilen Flutter, Dart dilini kullanarak hızlı ve performanslı mobil uygulamalar üretir."
   },
   {
@@ -44,7 +44,7 @@
     "tur": "Programlama Dili",
     "cikis_yili": "2011",
     "populerlik": "Android geliştirme için Google tarafından önerilen dil",
-    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png",
+    "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/kotlin.png",
     "aciklama": "Kotlin, modern, güvenli ve Java ile %100 uyumlu bir JVM dilidir."
   }, 
   {
@@ -60,7 +60,7 @@
     "tur": "Programlama Dili",
     "cikis_yili": "1995",
     "populerlik": "Web geliştirme için en yaygın kullanılan dil",
-    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+    "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/javascript.png",
     "aciklama": "JavaScript, web tarayıcılarında dinamik içerikler oluşturmak için kullanılan popüler bir programlama dilidir."
   },
   {
@@ -68,7 +68,7 @@
     "tur": "Programlama Dili",
     "cikis_yili": "2000",
     "populerlik": ".NET platformunda yaygın olarak kullanılan güçlü bir dil",
-    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png",
+    "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/Csharp.png",
     "aciklama": "Microsoft tarafından geliştirilen C#, masaüstü, web ve oyun geliştirmede kullanılan çok yönlü bir programlama dilidir."
   },
   {
@@ -76,7 +76,7 @@
     "tur": "Veritabanı",
     "cikis_yili": "1995",
     "populerlik": "Web tabanlı uygulamalarda yaygın kullanılan ilişkisel veritabanı",
-    "gorsel": "hhttps://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/Mysql.png",
+    "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/Mysql.png",
     "aciklama": "MySQL, açık kaynaklı bir ilişkisel veritabanı yönetim sistemidir."
   },
   {
@@ -108,7 +108,7 @@
   "tur": "Veritabanı",
   "cikis_yili": "2008",
   "populerlik": "Büyük veri ve yüksek erişilebilirlik gerektiren uygulamalarda yaygın",
-  "gorsel": "hhttps://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/cassandra.png",
+  "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/cassandra.png",
   "aciklama": "Apache Cassandra, dağıtık ve yüksek ölçeklenebilir NoSQL veritabanıdır."
 },
 {
