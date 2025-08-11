@@ -4,7 +4,7 @@
     "tur": "Programlama Dili",
     "cikis_yili": "1991",
     "populerlik": "Veri bilimi, yapay zeka ve web geliştirmede yaygın",
-    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+    "gorsel": "hhttps://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/python.png",
     "aciklama": "Python, okunabilirliği yüksek, dinamik tipli ve çok amaçlı bir programlama dilidir."
   },
   {
@@ -28,7 +28,7 @@
     "tur": "Container Orchestration",
     "cikis_yili": "2014",
     "populerlik": "Büyük ölçekli container yönetiminde standart",
-    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg",
+    "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/Kubernet.png",
     "aciklama": "Kubernetes, container tabanlı uygulamaların otomatikleştirilmiş dağıtımını, ölçeklendirilmesini ve yönetimini sağlar."
   },
   {
@@ -36,7 +36,7 @@
     "tur": "Veritabanı",
     "cikis_yili": "2009",
     "populerlik": "Bellek içi veri saklama ve cacheleme için yaygın",
-    "gorsel": "https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg",
+    "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/redis.png",
     "aciklama": "Redis, yüksek hızlı bir key-value veritabanıdır ve genellikle cache, oturum yönetimi ve gerçek zamanlı analizlerde kullanılır."
   },
   {
@@ -52,7 +52,7 @@
     "tur": "UI Kütüphanesi",
     "cikis_yili": "2013",
     "populerlik": "Web arayüz geliştirmede en popüler kütüphanelerden biri",
-    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+    "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/react.png",
     "aciklama": "React, kullanıcı arayüzlerini bileşen tabanlı olarak geliştirmeyi sağlayan bir JavaScript kütüphanesidir."
   },
   {
@@ -76,7 +76,7 @@
     "tur": "Veritabanı",
     "cikis_yili": "1995",
     "populerlik": "Web tabanlı uygulamalarda yaygın kullanılan ilişkisel veritabanı",
-    "gorsel": "https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg",
+    "gorsel": "hhttps://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/Mysql.png",
     "aciklama": "MySQL, açık kaynaklı bir ilişkisel veritabanı yönetim sistemidir."
   },
   {
@@ -84,7 +84,7 @@
     "tur": "Veritabanı",
     "cikis_yili": "1996",
     "populerlik": "İleri düzey özellikleri ve güvenilirliği ile bilinen ilişkisel veritabanı",
-    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg",
+    "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/postgres-logo.png",
     "aciklama": "PostgreSQL, güçlü veri bütünlüğü ve geniş özellik setiyle bilinen açık kaynaklı bir ilişkisel veritabanıdır."
   },
   {
@@ -92,7 +92,7 @@
     "tur": "Veritabanı",
     "cikis_yili": "2009",
     "populerlik": "JSON benzeri doküman depolayan NoSQL veritabanı",
-    "gorsel": "https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg",
+    "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/mangoDb.png",
     "aciklama": "MongoDB, esnek şema yapısıyla büyük ölçekli veriler için popüler bir NoSQL veritabanıdır."
   },
   {
@@ -100,7 +100,7 @@
   "tur": "Programlama Dili",
   "cikis_yili": "1972",
   "populerlik": "Sistem programlama ve gömülü sistemlerde yaygın",
-  "gorsel": "https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg",
+  "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/c.png",
   "aciklama": "C dili, düşük seviyeli programlama imkanı sağlayan, hızlı ve verimli bir programlama dilidir."
 },
 {
@@ -108,7 +108,7 @@
   "tur": "Veritabanı",
   "cikis_yili": "2008",
   "populerlik": "Büyük veri ve yüksek erişilebilirlik gerektiren uygulamalarda yaygın",
-  "gorsel": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg",
+  "gorsel": "hhttps://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/cassandra.png",
   "aciklama": "Apache Cassandra, dağıtık ve yüksek ölçeklenebilir NoSQL veritabanıdır."
 },
 {
@@ -116,7 +116,7 @@
   "tur": "Programlama Dili",
   "cikis_yili": "2009",
   "populerlik": "Sunucu uygulamaları ve cloud-native projelerde popüler",
-  "gorsel": "https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg",
+  "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/go.png",
   "aciklama": "Google tarafından geliştirilen Go, basit söz dizimi ve yüksek performansıyla bilinen modern bir programlama dilidir."
 },
 {
@@ -124,7 +124,7 @@
   "tur": "JavaScript Çalışma Ortamı",
   "cikis_yili": "2009",
   "populerlik": "Sunucu tarafı JavaScript geliştirmede yaygın",
-  "gorsel": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+  "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/nodejs.jpg",
   "aciklama": "Node.js, V8 JavaScript motoru üzerinde çalışan, yüksek performanslı bir çalışma ortamıdır."
 },
 {
@@ -132,7 +132,7 @@
   "tur": "Programlama Dili",
   "cikis_yili": "1995",
   "populerlik": "Web geliştirme için yaygın kullanılan betik dili",
-  "gorsel": "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg",
+  "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/php.png",
   "aciklama": "PHP, özellikle web tabanlı uygulamalar ve dinamik siteler geliştirmek için tasarlanmış açık kaynaklı bir dildir."
 },
 {
@@ -140,7 +140,7 @@
   "tur": "Programlama Dili",
   "cikis_yili": "2010",
   "populerlik": "Güvenli bellek yönetimi ve yüksek performanslı sistem yazılımlarında popüler",
-  "gorsel": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg",
+  "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/rust.png",
   "aciklama": "Rust, güvenlik ve performansı bir arada sunan, modern bir sistem programlama dilidir."
 },
 {
@@ -148,7 +148,7 @@
   "tur": "Programlama Dili",
   "cikis_yili": "2014",
   "populerlik": "iOS ve macOS uygulama geliştirmede Apple'ın resmi dili",
-  "gorsel": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg",
+  "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/swift.png",
   "aciklama": "Swift, Apple tarafından geliştirilen, hızlı, güvenli ve modern bir programlama dilidir."
 },
 {
@@ -156,7 +156,7 @@
   "tur": "UI Framework",
   "cikis_yili": "2010",
   "populerlik": "Kurumsal düzey web uygulamalarında yaygın",
-  "gorsel": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg",
+  "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/angular.png",
   "aciklama": "Angular, Google tarafından geliştirilen, TypeScript tabanlı güçlü bir web uygulama framework'üdür."
 },
 {
@@ -164,7 +164,7 @@
   "tur": "UI Framework",
   "cikis_yili": "2014",
   "populerlik": "Basit ve esnek yapısıyla popüler JavaScript framework'ü",
-  "gorsel": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg",
+  "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/VueJs.png",
   "aciklama": "Vue.js, kullanıcı arayüzleri ve tek sayfa uygulamalar geliştirmek için kullanılan açık kaynaklı bir JavaScript framework'üdür."
 },
 {
@@ -172,7 +172,7 @@
   "tur": "Arama ve Analiz Motoru",
   "cikis_yili": "2010",
   "populerlik": "Büyük veri üzerinde hızlı arama ve analizde yaygın",
-  "gorsel": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg",
+  "gorsel": "https://raw.githubusercontent.com/Emineyldrm/TechJSONDataSet/main/elasticsearch.png",
   "aciklama": "Elasticsearch, dağıtık ve ölçeklenebilir yapısıyla metin arama ve veri analizi için kullanılan açık kaynaklı bir arama motorudur."
 }
 ]
